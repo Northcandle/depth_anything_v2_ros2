@@ -1,0 +1,17 @@
+[0.681s] Invoking command in '/home/li/depth_ws/build/depth_anything_ros': PS1=(depth_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/li/depth_ws/build/depth_anything_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/li/depth_ws/build/depth_anything_ros/build --no-deps symlink_data
+[0.871s] running develop
+[0.957s] running egg_info
+[0.957s] writing depth_anything_ros.egg-info/PKG-INFO
+[0.957s] writing dependency_links to depth_anything_ros.egg-info/dependency_links.txt
+[0.957s] writing entry points to depth_anything_ros.egg-info/entry_points.txt
+[0.957s] writing requirements to depth_anything_ros.egg-info/requires.txt
+[0.957s] writing top-level names to depth_anything_ros.egg-info/top_level.txt
+[0.959s] reading manifest file 'depth_anything_ros.egg-info/SOURCES.txt'
+[0.960s] writing manifest file 'depth_anything_ros.egg-info/SOURCES.txt'
+[0.961s] running build_ext
+[0.961s] Creating /home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth-anything-ros.egg-link (link to .)
+[0.961s] Installing depth_anything_node script to /home/li/depth_ws/install/depth_anything_ros/lib/depth_anything_ros
+[0.961s] 
+[0.961s] Installed /home/li/depth_ws/build/depth_anything_ros
+[0.961s] running symlink_data
+[0.981s] Invoked command in '/home/li/depth_ws/build/depth_anything_ros' returned '0': PS1=(depth_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/li/depth_ws/build/depth_anything_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/li/depth_ws/build/depth_anything_ros/build --no-deps symlink_data

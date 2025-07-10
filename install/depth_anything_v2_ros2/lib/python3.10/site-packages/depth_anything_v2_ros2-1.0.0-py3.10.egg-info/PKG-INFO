@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: depth-anything-v2-ros2
+Version: 1.0.0
+Summary: ROS2 Wrapper for DepthAnything V2 model
+Home-page: UNKNOWN
+Author: Óscar Pons Fernández
+Author-email: oscarpf22@gmail.com
+Maintainer: Alberto Tudela
+Maintainer-email: ajtudela@gmail.com
+License: Apache-2.0
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

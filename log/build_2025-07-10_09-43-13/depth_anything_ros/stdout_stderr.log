@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/depth_anything_ros/depth_anything_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/depth_anything_ros/depth_anything_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/depth_anything_ros/depth_anything_ros.egg-info/entry_points.txt
+writing requirements to ../../build/depth_anything_ros/depth_anything_ros.egg-info/requires.txt
+writing top-level names to ../../build/depth_anything_ros/depth_anything_ros.egg-info/top_level.txt
+reading manifest file '../../build/depth_anything_ros/depth_anything_ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/depth_anything_ros/depth_anything_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/depth.launch.py -> /home/li/depth_ws/install/depth_anything_ros/share/depth_anything_ros/launch
+running install_egg_info
+removing '/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth_anything_ros-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/depth_anything_ros/depth_anything_ros.egg-info to /home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth_anything_ros-0.0.0-py3.10.egg-info
+running install_scripts
+Installing depth_anything_node script to /home/li/depth_ws/install/depth_anything_ros/lib/depth_anything_ros
+writing list of installed files to '/home/li/depth_ws/build/depth_anything_ros/install.log'

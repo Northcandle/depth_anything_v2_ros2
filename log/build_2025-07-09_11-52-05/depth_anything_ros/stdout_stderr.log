@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing depth_anything_ros.egg-info/PKG-INFO
+writing dependency_links to depth_anything_ros.egg-info/dependency_links.txt
+writing entry points to depth_anything_ros.egg-info/entry_points.txt
+writing requirements to depth_anything_ros.egg-info/requires.txt
+writing top-level names to depth_anything_ros.egg-info/top_level.txt
+reading manifest file 'depth_anything_ros.egg-info/SOURCES.txt'
+writing manifest file 'depth_anything_ros.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth-anything-ros.egg-link (link to .)
+Installing depth_anything_node script to /home/li/depth_ws/install/depth_anything_ros/lib/depth_anything_ros
+
+Installed /home/li/depth_ws/build/depth_anything_ros
+running symlink_data
+creating /home/li/depth_ws/install/depth_anything_ros/share/depth_anything_ros/launch
+symbolically linking /home/li/depth_ws/build/depth_anything_ros/launch/depth.launch.py -> /home/li/depth_ws/install/depth_anything_ros/share/depth_anything_ros/launch

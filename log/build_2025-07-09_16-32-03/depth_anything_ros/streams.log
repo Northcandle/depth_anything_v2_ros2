@@ -1,0 +1,17 @@
+[0.484s] Invoking command in '/home/li/depth_ws/build/depth_anything_ros': PYTHONPATH=/home/li/depth_ws/build/depth_anything_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/li/depth_ws/build/depth_anything_ros/build --no-deps symlink_data
+[0.630s] running develop
+[0.715s] running egg_info
+[0.715s] writing depth_anything_ros.egg-info/PKG-INFO
+[0.716s] writing dependency_links to depth_anything_ros.egg-info/dependency_links.txt
+[0.716s] writing entry points to depth_anything_ros.egg-info/entry_points.txt
+[0.716s] writing requirements to depth_anything_ros.egg-info/requires.txt
+[0.716s] writing top-level names to depth_anything_ros.egg-info/top_level.txt
+[0.717s] reading manifest file 'depth_anything_ros.egg-info/SOURCES.txt'
+[0.717s] writing manifest file 'depth_anything_ros.egg-info/SOURCES.txt'
+[0.718s] running build_ext
+[0.718s] Creating /home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth-anything-ros.egg-link (link to .)
+[0.719s] Installing depth_anything_node script to /home/li/depth_ws/install/depth_anything_ros/lib/depth_anything_ros
+[0.719s] 
+[0.719s] Installed /home/li/depth_ws/build/depth_anything_ros
+[0.719s] running symlink_data
+[0.747s] Invoked command in '/home/li/depth_ws/build/depth_anything_ros' returned '0': PYTHONPATH=/home/li/depth_ws/build/depth_anything_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/li/depth_ws/build/depth_anything_ros/build --no-deps symlink_data

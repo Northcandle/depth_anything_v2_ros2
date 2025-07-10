@@ -1,0 +1,1 @@
+cv_bridge:image_transport:python3-numpy:python3-opencv:python3-torch:rclpy:sensor_msgs

@@ -1,0 +1,19 @@
+[0.321s] Invoking command in '/home/li/depth_ws/src/depth_anything_ros': PYTHONPATH=/home/li/depth_ws/build/depth_anything_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/depth_anything_ros build --build-base /home/li/depth_ws/build/depth_anything_ros/build install --record /home/li/depth_ws/build/depth_anything_ros/install.log --single-version-externally-managed install_data
+[0.446s] running egg_info
+[0.446s] writing ../../build/depth_anything_ros/depth_anything_ros.egg-info/PKG-INFO
+[0.447s] writing dependency_links to ../../build/depth_anything_ros/depth_anything_ros.egg-info/dependency_links.txt
+[0.447s] writing entry points to ../../build/depth_anything_ros/depth_anything_ros.egg-info/entry_points.txt
+[0.447s] writing requirements to ../../build/depth_anything_ros/depth_anything_ros.egg-info/requires.txt
+[0.447s] writing top-level names to ../../build/depth_anything_ros/depth_anything_ros.egg-info/top_level.txt
+[0.447s] reading manifest file '../../build/depth_anything_ros/depth_anything_ros.egg-info/SOURCES.txt'
+[0.448s] writing manifest file '../../build/depth_anything_ros/depth_anything_ros.egg-info/SOURCES.txt'
+[0.448s] running build
+[0.448s] running install
+[0.448s] running install_data
+[0.448s] running install_egg_info
+[0.449s] removing '/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth_anything_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.449s] Copying ../../build/depth_anything_ros/depth_anything_ros.egg-info to /home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages/depth_anything_ros-0.0.0-py3.10.egg-info
+[0.450s] running install_scripts
+[0.462s] Installing depth_anything_node script to /home/li/depth_ws/install/depth_anything_ros/lib/depth_anything_ros
+[0.462s] writing list of installed files to '/home/li/depth_ws/build/depth_anything_ros/install.log'
+[0.474s] Invoked command in '/home/li/depth_ws/src/depth_anything_ros' returned '0': PYTHONPATH=/home/li/depth_ws/build/depth_anything_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/li/depth_ws/install/depth_anything_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/depth_anything_ros build --build-base /home/li/depth_ws/build/depth_anything_ros/build install --record /home/li/depth_ws/build/depth_anything_ros/install.log --single-version-externally-managed install_data
